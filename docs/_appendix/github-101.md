@@ -68,7 +68,7 @@ Now that you have Git set up, you will need to fork the test repository. This
 will enable you to [submit][submit] your tests using a pull request (more on this
 [below][submit]).
 
-1.  In the browser, go the the GitHub page for the test repository:
+1.  In the browser, go the GitHub page for the test repository:
 
     CSS test repository: [github.com/w3c/csswg-test][css-repo]
 
