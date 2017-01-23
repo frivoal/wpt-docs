@@ -240,6 +240,13 @@ them back up to the server:
     this by using a pull request. In a browser, open the GitHub page for your
     forked repository: **https://github.com/username/web-platform-tests**.
 
+    **Note**: Pull Requests are not an integral part of git, so do
+    not look for them in the command line interface. The git concept
+    is only the branch. A pull request is just putting that branch 
+    somewhere other people can see it, and asking someone to look at it
+    and merge it if appropriate. GitHub has simply integrated that workflow
+    as a convenience feature in their issue tracker.
+
 3. Now create the pull request.  There are several ways to create a PR in the
 GitHub UI.  Below is one method and others can be found on
 [GitHub.com][github-createpr]
